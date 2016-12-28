@@ -1,5 +1,5 @@
 (defproject mx.roads.forgotten/util "0.1.0-SNAPSHOT"
-  :description "The FRMX utility library"
+  :description "FRMX utility library"
   :url "https://github.com/frmx/util"
   :scm {
     :name "git"

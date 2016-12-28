@@ -4,7 +4,7 @@
 [![Clojars Project][clojars-badge]][clojars]
 [![Clojure version][clojure-v]](project.clj)
 
-*The Forgotten Roads Landing Page*
+*FRMX utility library*
 
 [![][logo]][logo-large]
 
