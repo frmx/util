@@ -1,6 +1,8 @@
-# landing
+# frmx util
 
-[![Build Status][ci-badge]][ci][![Clojars Project][clojars-badge]][clojars][![Clojure version][clojure-v]](project.clj)
+[![Build Status][ci-badge]][ci]
+[![Clojars Project][clojars-badge]][clojars]
+[![Clojure version][clojure-v]](project.clj)
 
 *The Forgotten Roads Landing Page*
 
@@ -10,40 +12,10 @@
 ##### Contents
 
 * [Introduction](#introduction-)
-* [Dependencies](#dependencies-)
-* [Installation](#installation-)
-* [Documentation](#documentation-)
-* [Usage](#usage-)
-* [Resources](#resources-)
 * [License](#license-)
 
 
 ## Introduction [&#x219F;](#contents)
-
-TBD
-
-
-## Dependencies [&#x219F;](#contents)
-
-TBD
-
-
-## Installation [&#x219F;](#contents)
-
-TBD
-
-
-## Documentation [&#x219F;](#contents)
-
-TBD
-
-
-## Usage [&#x219F;](#contents)
-
-TBD
-
-
-## Resources [&#x219F;](#contents)
 
 TBD
 
